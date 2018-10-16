@@ -1,0 +1,12 @@
+.idea
+*.iml
+*/target/*
+*/.settings/*
+.settings/*
+.classpath
+*/.classpath
+.springBeans
+*/.springBeans
+*.project
+.DS_Store
+*/.DS_Store
