@@ -48,20 +48,17 @@ public class SegmentTree {
      * root 为此线段树的根节点
      * */
     private void insert(int c, int d, Node node) {
-        if(node==null||c<node.left||d>node.right){
+        if (node==null||c<node.left||d>node.right){
             System.out.println("输入的参数不合法!"+"c:"+c+" "+"d:"+d);
             System.out.println("root:"+node.left+" "+node.right);
-
             return ;
         }
         int mid=(node.left+node.right)>>1;
-        if(d<=mid){
+        if (d<=mid){
             insert(c,d,node.leftChild);
-        }
-
-        else if(c>=mid)
+        } else if (c>=mid){
             insert(c,d,node.rightChild);
-        else {
+        } else {
             insert(c,mid,node.leftChild);
             insert(mid,d,node.rightChild);
         }
