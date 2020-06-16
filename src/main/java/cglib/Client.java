@@ -18,6 +18,5 @@ public class Client {
         HelloService proxy= (HelloService)enhancer.create();
         // 通过代理对象调用目标方法
         proxy.sayHello();
-
     }
 }
