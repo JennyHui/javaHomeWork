@@ -1,202 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8ec24616-6bdc-4e21-a1bb-fbf6c702da8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SegmentTree/SegmentTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Spring/demo/BraveKnight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Spring/demo/Knight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Spring/demo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Spring/demo/Quest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Spring/demo/QuestHui.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/ApplicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SegmentTree/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonEight/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonEight/Service.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonFive/MyService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonFive/MyService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonFive/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonFive/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonFive/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonFive/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonFour/MyService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonFour/MyService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonFour/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonFour/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonNine/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonNine/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonNine/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonNine/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonNine/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonNine/Service.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonOne/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonOne/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonOne/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonOne/Service.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonOne/ThreadA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonOne/ThreadA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonOne/ThreadB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonOne/ThreadB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonOne/ThreadC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonOne/ThreadC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonSIx/MyService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonSIx/MyService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonSIx/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonSIx/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonSIx/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonSIx/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonSeven/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonSeven/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonSeven/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonSeven/Service.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonSeven/ServiceTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonSeven/ServiceTwo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonSeven/ThreadA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonSeven/ThreadA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonSeven/ThreadB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonSeven/ThreadB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonThree/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonThree/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonThree/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonThree/Service.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonThree/ThreadA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonThree/ThreadA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonThree/ThreadB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonThree/ThreadB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonTwo/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonTwo/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonTwo/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonTwo/Service.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonTwo/ThreadA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/concurrency/semaphore/LessonTwo/ThreadA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/ApplicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ConfigTest.java" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1893862179">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="14" />
-          <entry key="project.open.time.1" value="4" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.13" value="2" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.2" value="3" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.22" value="1" />
-          <entry key="project.open.time.34" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="16" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="33" />
-          <entry key="java" value="69" />
-          <entry key="xml" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="33" />
-          <entry key="JAVA" value="69" />
-          <entry key="XML" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="4599" />
-          <entry key="xml" value="11" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="4599" />
-          <entry key="XML" value="11" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Spring/demo/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="302" selection-start-line="302" selection-end-line="302" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE.jar!/org/springframework/context/support/AbstractRefreshableApplicationContext.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="49" column="13" lean-forward="true" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE.jar!/org/springframework/context/support/AbstractXmlApplicationContext.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.7.RELEASE/spring-beans-4.3.7.RELEASE.jar!/org/springframework/beans/factory/support/AbstractBeanDefinitionReader.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="148" column="15" selection-start-line="148" selection-start-column="15" selection-end-line="148" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.7.RELEASE/spring-beans-4.3.7.RELEASE.jar!/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.7.RELEASE/spring-beans-4.3.7.RELEASE.jar!/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="71" column="38" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.7.RELEASE/spring-beans-4.3.7.RELEASE.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="1246" selection-start-line="1246" selection-end-line="1246" />
-              <folding>
-                <element signature="e#5843#5844#0" expanded="true" />
-                <element signature="e#5891#5892#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.7.RELEASE/spring-core-4.3.7.RELEASE.jar!/org/springframework/core/env/ConfigurablePropertyResolver.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -207,177 +40,74 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>J</find>
-      <find>jSONaRR</find>
-      <find>LinkedHashMap</find>
-      <find>Link</find>
-      <find>load</find>
-      <find>refreshBean</find>
-      <find>refreshBeanFactory</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/Service.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/ThreadA.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/ThreadB.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/ThreadC.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/Run.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonOne/Run.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonOne/Service.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonTwo/Servic.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonTwo/TheadA.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonTwo/ThreadA.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonTwo/Service.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonTwo/Run.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonThree/ThreadB.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonThree/ThreadA.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonThree/Run.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonThree/Service.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonFour/Run.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonFour/MyService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonFive/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonFive/Run.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonFive/MyService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonSIx/Run.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonSIx/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonSIx/MyService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonSeven/ThreadA.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonSeven/ThreadB.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonSeven/Run.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonEight/Service.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonSeven/Service.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonSeven/ServiceTwo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonNine/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonNine/Run.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonNine/Service.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/other/SegmentTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SegmentTree/Node.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SegmentTree/SegmentTree.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/Spring/demo/Knight.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Spring/demo/QuestHui.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Spring/demo/BraveKnight.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Spring/demo/Quest.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/ApplicationContext.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/Spring/demo/Main.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
+  <component name="ProjectId" id="1dOXZWF44spB1saIaP6nYQf2HIr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="jennyhui" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jennyhui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jennyhui" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jennyhui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jennyhui" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jennyhui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jennyhui" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jennyhui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jennyhui" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jennyhui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jennyhui" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jennyhui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539660444314" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="concurrency.semaphore.LessonSeven" />
       <recent name="concurrency.semaphore.LessonThree" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonSeven" />
       <recent name="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonFive" />
       <recent name="$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonThree" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cglib.Client" />
+      <module name="javaHomeWork.git" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cglib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompletableFuturesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdk8.CompletableFuturesTest" />
+      <module name="javaHomeWork.git" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdk8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Spring.demo.Main" />
       <module name="jennyhui" />
@@ -391,38 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrency.semaphore.LessonSeven.Run" />
-      <module name="jennyhui" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="concurrency.semaphore.LessonSeven.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Run (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="concurrency.semaphore.LessonNine.Run" />
       <module name="jennyhui" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="concurrency.semaphore.LessonNine.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrency.semaphore.LessonSIx.Run" />
-      <module name="jennyhui" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="concurrency.semaphore.LessonSIx.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -444,19 +148,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Run" />
-      <item itemvalue="Application.Run (1)" />
       <item itemvalue="Application.Run (2)" />
       <item itemvalue="Application.SegmentTree" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.CompletableFuturesTest" />
+      <item itemvalue="Application.Client" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.CompletableFuturesTest" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.SegmentTree" />
         <item itemvalue="Application.Run (2)" />
-        <item itemvalue="Application.Run (1)" />
-        <item itemvalue="Application.Run" />
       </list>
     </recent_temporary>
   </component>
@@ -486,54 +190,65 @@
       <workItem from="1539247998622" duration="1531000" />
       <workItem from="1539312485034" duration="3548000" />
       <workItem from="1539572753052" duration="6848000" />
+      <workItem from="1592297171288" duration="1074000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32510000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.19628432" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37108433" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39178082" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32876712" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32739726" />
-      <window_info anchor="bottom" id="Spring" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Graphical Navigator" internal_type="SLIDING" order="9" type="SLIDING" />
-      <window_info anchor="right" id="UML Diagrams" internal_type="SLIDING" order="10" type="SLIDING" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="199" y="-959" key="#Project_Structure" timestamp="1592297467792">
+      <screen x="-249" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="199" y="-959" key="#Project_Structure/0.0.1440.900/-249.-1080.1920.1080@-249.-1080.1920.1080" timestamp="1592297467792" />
+    <state x="449" y="-786" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592297871058">
+      <screen x="-249" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="449" y="-786" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900/-249.-1080.1920.1080@-249.-1080.1920.1080" timestamp="1592297871058" />
+    <state width="1878" height="346" key="GridCell.Tab.0.bottom" timestamp="1592298080520">
+      <screen x="-249" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="346" key="GridCell.Tab.0.bottom/0.0.1440.900/-249.-1080.1920.1080@-249.-1080.1920.1080" timestamp="1592298080520" />
+    <state width="1878" height="346" key="GridCell.Tab.0.center" timestamp="1592298080517">
+      <screen x="-249" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="346" key="GridCell.Tab.0.center/0.0.1440.900/-249.-1080.1920.1080@-249.-1080.1920.1080" timestamp="1592298080517" />
+    <state width="1878" height="346" key="GridCell.Tab.0.left" timestamp="1592298080516">
+      <screen x="-249" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="346" key="GridCell.Tab.0.left/0.0.1440.900/-249.-1080.1920.1080@-249.-1080.1920.1080" timestamp="1592298080516" />
+    <state width="1878" height="346" key="GridCell.Tab.0.right" timestamp="1592298080519">
+      <screen x="-249" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="346" key="GridCell.Tab.0.right/0.0.1440.900/-249.-1080.1920.1080@-249.-1080.1920.1080" timestamp="1592298080519" />
+    <state x="249" y="-878" key="Maven.ArtifactSearchDialog" timestamp="1592297732553">
+      <screen x="-249" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="249" y="-878" key="Maven.ArtifactSearchDialog/0.0.1440.900/-249.-1080.1920.1080@-249.-1080.1920.1080" timestamp="1592297732553" />
+    <state x="220" y="-901" key="SettingsEditor" timestamp="1592298264172">
+      <screen x="-249" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="220" y="-901" key="SettingsEditor/0.0.1440.900/-249.-1080.1920.1080@-249.-1080.1920.1080" timestamp="1592298264172" />
+    <state x="411" y="-783" width="600" height="486" key="find.popup" timestamp="1592297722575">
+      <screen x="-249" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="411" y="-783" width="600" height="486" key="find.popup/0.0.1440.900/-249.-1080.1920.1080@-249.-1080.1920.1080" timestamp="1592297722575" />
+    <state x="284" y="-849" key="spring file set editor" timestamp="1592297621572">
+      <screen x="-249" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="284" y="-849" key="spring file set editor/0.0.1440.900/-249.-1080.1920.1080@-249.-1080.1920.1080" timestamp="1592297621572" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -541,43 +256,36 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Spring/demo/Main.java</url>
           <line>8</line>
-          <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.class</url>
           <line>41</line>
-          <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class</url>
           <line>254</line>
-          <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE.jar!/org/springframework/context/support/AbstractRefreshableApplicationContext.class</url>
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class</url>
           <line>302</line>
-          <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE.jar!/org/springframework/context/support/AbstractXmlApplicationContext.class</url>
           <line>43</line>
-          <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.7.RELEASE/spring-beans-4.3.7.RELEASE.jar!/org/springframework/beans/factory/support/AbstractBeanDefinitionReader.class</url>
           <line>105</line>
-          <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
@@ -591,452 +299,5 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonOne/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonTwo/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonTwo/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="913" column="16" selection-start-line="913" selection-start-column="16" selection-end-line="913" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonThree/ThreadB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonThree/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonOne/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonThree/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonThree/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonTwo/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="30" column="42" lean-forward="true" selection-start-line="30" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/JSON.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="135" column="28" selection-start-line="135" selection-start-column="18" selection-end-line="135" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/JSONObject.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/Semaphore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="678" column="21" selection-start-line="678" selection-start-column="21" selection-end-line="678" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonFour/MyService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="53" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonFour/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonFive/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonSIx/MyService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonSIx/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonSIx/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonFive/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonFive/MyService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="53" lean-forward="true" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonEight/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="38" selection-start-line="12" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonSeven/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonSeven/ThreadB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonNine/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonSeven/ServiceTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="37" selection-start-line="24" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonSeven/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="25" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonNine/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonNine/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/semaphore/LessonSeven/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/SegmentTree/SegmentTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="49" column="50" selection-start-line="49" selection-start-column="50" selection-end-line="49" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/ApplicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Spring/demo/Knight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Spring/demo/BraveKnight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE.jar!/org/springframework/context/ApplicationContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="13" column="120" lean-forward="true" selection-start-line="13" selection-start-column="120" selection-end-line="13" selection-end-column="120" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE.jar!/org/springframework/context/ConfigurableApplicationContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="14" column="72" lean-forward="true" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Spring/demo/Quest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Spring/demo/QuestHui.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE.jar!/org/springframework/context/support/AbstractRefreshableConfigApplicationContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-143">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.7.RELEASE/spring-core-4.3.7.RELEASE.jar!/org/springframework/core/env/ConfigurablePropertyResolver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.7.RELEASE/spring-beans-4.3.7.RELEASE.jar!/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="71" column="38" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.7.RELEASE/spring-beans-4.3.7.RELEASE.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="1246" selection-start-line="1246" selection-end-line="1246" />
-          <folding>
-            <element signature="e#5843#5844#0" expanded="true" />
-            <element signature="e#5891#5892#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.7.RELEASE/spring-beans-4.3.7.RELEASE.jar!/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Spring/demo/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="302" selection-start-line="302" selection-end-line="302" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.7.RELEASE/spring-beans-4.3.7.RELEASE.jar!/org/springframework/beans/factory/support/AbstractBeanDefinitionReader.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="148" column="15" selection-start-line="148" selection-start-column="15" selection-end-line="148" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE.jar!/org/springframework/context/support/AbstractXmlApplicationContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE.jar!/org/springframework/context/support/AbstractRefreshableApplicationContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="49" column="13" lean-forward="true" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Spring</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Spring|jennyhui</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: com.alibaba:fastjson:1.2.28</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
