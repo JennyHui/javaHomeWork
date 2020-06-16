@@ -1,4 +1,4 @@
-.idea
+.idea/*
 *.iml
 */target/*
 */.settings/*
@@ -8,5 +8,4 @@
 .springBeans
 */.springBeans
 *.project
-.DS_Store
-*/.DS_Store
+*.puml
