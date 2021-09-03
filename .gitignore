@@ -10,3 +10,4 @@
 */.springBeans
 *.project
 *.puml
+/.idea/*
