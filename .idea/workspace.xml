@@ -23,35 +23,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ec24616-6bdc-4e21-a1bb-fbf6c702da8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring/test/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring/test/AspectA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring/test/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring/test/DemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/RotateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/SortedSquaresTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jdk8/CompletableFuturesTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring/ServiceLocatorFactoryBean/teamExceptionReport/ExceptionReporter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring/ServiceLocatorFactoryBean/teamExceptionReport/ExceptionReporterFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring/ServiceLocatorFactoryBean/teamExceptionReport/MyBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring/ServiceLocatorFactoryBean/teamExceptionReport/TestTT.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring/ServiceLocatorFactoryBean/teamExceptionReport/reporter/CustomerInfoWrongReporter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring/ServiceLocatorFactoryBean/teamExceptionReport/reporter/CustomerLostReporter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/basic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jdk8/CompletableFuturesTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/ServiceLocatorFactoryBean/teamExceptionReport/ExceptionReporter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/ServiceLocatorFactoryBean/teamExceptionReport/ExceptionReporterFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/ServiceLocatorFactoryBean/teamExceptionReport/MyBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/ServiceLocatorFactoryBean/teamExceptionReport/TestTT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/ServiceLocatorFactoryBean/teamExceptionReport/reporter/CustomerInfoWrongReporter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/ServiceLocatorFactoryBean/teamExceptionReport/reporter/CustomerLostReporter.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -77,9 +60,13 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
         <option name="userSettingsFile" value="$PROJECT_DIR$/../../../hll/settings/settings_2021.xml" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1280" />
@@ -97,7 +84,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539660444314" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -122,26 +109,13 @@
       <recent name="concurrency.semaphore.LessonThree" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoApplication">
+  <component name="RunManager" selected="Application.RotateTest">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cglib.Client" />
       <module name="javaHomeWork.git" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cglib.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CompletableFuturesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jdk8.CompletableFuturesTest" />
-      <module name="javaHomeWork.git" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jdk8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +136,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Spring.demo.Main" />
-      <module name="jennyhui" />
+    <configuration name="RotateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.RotateTest" />
+      <module name="javaHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Spring.demo.*" />
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortedSquaresTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.SortedSquaresTest" />
+      <module name="javaHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,18 +177,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Client" />
-      <item itemvalue="Application.CompletableFuturesTest" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Worker" />
       <item itemvalue="Application.DemoApplication" />
+      <item itemvalue="Application.SortedSquaresTest" />
+      <item itemvalue="Application.RotateTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RotateTest" />
+        <item itemvalue="Application.SortedSquaresTest" />
         <item itemvalue="Application.DemoApplication" />
         <item itemvalue="Application.Worker" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.CompletableFuturesTest" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -250,6 +237,56 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom" timestamp="1657546103710">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1657546103710" />
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/54.25.1386.875@54.25.1386.875" timestamp="1656515099228" />
+    <state width="1398" height="304" key="GridCell.Tab.0.center" timestamp="1657546103709">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1657546103709" />
+    <state width="1398" height="304" key="GridCell.Tab.0.center/54.25.1386.875@54.25.1386.875" timestamp="1656515099227" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left" timestamp="1657546103709">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1657546103709" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left/54.25.1386.875@54.25.1386.875" timestamp="1656515099224" />
+    <state width="1398" height="304" key="GridCell.Tab.0.right" timestamp="1657546103709">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1657546103709" />
+    <state width="1398" height="304" key="GridCell.Tab.0.right/54.25.1386.875@54.25.1386.875" timestamp="1656515099227" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1657546103712">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1657546103712" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/54.25.1386.875@54.25.1386.875" timestamp="1656515099430" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1657546103711">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1657546103711" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center/54.25.1386.875@54.25.1386.875" timestamp="1656515099429" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1657546103710">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1657546103710" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left/54.25.1386.875@54.25.1386.875" timestamp="1656515099428" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1657546103711">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1657546103711" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right/54.25.1386.875@54.25.1386.875" timestamp="1656515099430" />
+    <state x="229" y="86" key="SettingsEditor" timestamp="1656512142832">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1656512142832" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1656600970226">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1656600970226" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -318,6 +355,16 @@
           <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.5.RELEASE/spring-beans-5.2.5.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java</url>
           <line>1435</line>
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/SortedSquaresTest.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/RotateTest.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
